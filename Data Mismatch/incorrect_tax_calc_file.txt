@@ -1,0 +1,16 @@
+app_natid: 1213$$ app_name: Barber Miss. Ellen Nellie app_relief: 8610.00
+my_natid: 1213$$ my_name: Barber Miss. Ellen Nellie my_relief: 6888.00
+app_natid: 1225$$ app_name: Birnbaum Mr. Jakob app_relief: 2298.00
+my_natid: 1225$$ my_name: Birnbaum Mr. Jakob my_relief: 1437.00
+app_natid: 1235$$ app_name: Bowen Miss. Grace Scott app_relief: 783.00
+my_natid: 1235$$ my_name: Bowen Miss. Grace Scott my_relief: 784.00
+app_natid: 1259$$ app_name: Cassebeer Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick) app_relief: 5399.00
+my_natid: 1259$$ my_name: Cassebeer Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick) my_relief: 4096.00
+app_natid: 1274$$ app_name: Clifford Mr. George Quincy app_relief: 1931.00
+my_natid: 1274$$ my_name: Clifford Mr. George Quincy my_relief: 1207.00
+app_natid: 1286$$ app_name: Daly Mr. Peter Denis  app_relief: 9457.75
+my_natid: 1286$$ my_name: Daly Mr. Peter Denis  my_relief: 7666.00
+app_natid: 1287$$ app_name: Daniel Mr. Robert Williams app_relief: 857.00
+my_natid: 1287$$ my_name: Daniel Mr. Robert Williams my_relief: 723.00
+app_natid: 1289$$ app_name: Davidson Mr. Thornton app_relief: 6082.00
+my_natid: 1289$$ my_name: Davidson Mr. Thornton my_relief: 4966.00

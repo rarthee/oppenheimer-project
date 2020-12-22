@@ -1,0 +1,11 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+http://localhost:8080/calculator/taxRelief,1110,4597,5,8891,3542.95,0.000%,3.20697,0.62,0.80,197.0
+http://localhost:8080/calculator/taxReliefSummary,1110,5752,1,18081,6807.58,0.000%,3.05345,0.61,0.78,203.0
+Refresh Tax Relief Table,1110,10350,9,26601,9159.20,0.000%,3.05333,1.19,1.54,400.0
+http://localhost:8080/swagger-ui.html,1110,37081,49,67314,17356.00,15.045%,2.69069,5010.66,8.74,1906912.5
+http://localhost:8080/swagger-resources/configuration/ui,1110,8737,1,23558,8234.49,0.000%,2.69140,1.55,0.63,590.0
+http://localhost:8080/swagger-resources/configuration/security,1110,4463,1,23182,6575.29,0.000%,2.69141,0.37,0.64,140.0
+http://localhost:8080/swagger-resources,1110,3072,0,23543,5263.52,0.000%,2.69144,0.60,0.58,229.0
+http://localhost:8080/v2/api-docs,1110,1843,1,23589,3897.62,0.000%,2.69146,66.91,0.61,25455.0
+Visit Swagger,1110,55198,61,76306,20593.81,15.045%,2.69064,5079.96,11.19,1933326.5
+TOTAL,9990,14566,0,76306,20560.93,3.343%,24.21407,10161.33,25.09,429717.0

@@ -1,0 +1,108 @@
+app_natid: 1200$$ app_name: AllenMiss. Elisabeth Walton app_relief: 4377.67
+my_natid: 1200$$ my_name: AllenMiss. Elisabeth Walton my_relief: 4378.00
+app_natid: 1201$$ app_name: Allison Master. Hudson Trevor app_relief: 7051.96
+my_natid: 1201$$ my_name: Allison Master. Hudson Trevor my_relief: 7052.00
+app_natid: 1202$$ app_name: Allison Miss. Helen Loraine app_relief: 5433.89
+my_natid: 1202$$ my_name: Allison Miss. Helen Loraine my_relief: 5434.00
+app_natid: 1206$$ app_name: Andrews Miss. Kornelia Theodosia app_relief: 1563.81
+my_natid: 1206$$ my_name: Andrews Miss. Kornelia Theodosia my_relief: 1564.00
+app_natid: 1207$$ app_name: Andrews Mr. Thomas Jr app_relief: 573.77
+my_natid: 1207$$ my_name: Andrews Mr. Thomas Jr my_relief: 574.00
+app_natid: 1209$$ app_name: Artagaveytia Mr. Ramon app_relief: 3900.85
+my_natid: 1209$$ my_name: Artagaveytia Mr. Ramon my_relief: 3901.00
+app_natid: 1210$$ app_name: Astor  Col. John Jacob app_relief: 3396.74
+my_natid: 1210$$ my_name: Astor  Col. John Jacob my_relief: 3397.00
+app_natid: 1216$$ app_name: Baxter Mr. Quigg Edmond app_relief: 4074.76
+my_natid: 1216$$ my_name: Baxter Mr. Quigg Edmond my_relief: 4075.00
+app_natid: 1218$$ app_name: Bazzani Miss. Albina app_relief: 8339.71
+my_natid: 1218$$ my_name: Bazzani Miss. Albina my_relief: 8340.00
+app_natid: 1219$$ app_name: Beattie Mr. Thomson app_relief: 2817.52
+my_natid: 1219$$ my_name: Beattie Mr. Thomson my_relief: 2818.00
+app_natid: 1221$$ app_name: Beckwith Mrs. Richard Leonard (Sallie Monypeny) app_relief: 2939.99
+my_natid: 1221$$ my_name: Beckwith Mrs. Richard Leonard (Sallie Monypeny) my_relief: 2940.00
+app_natid: 1224$$ app_name: Bird Miss. Ellen app_relief: 2076.72
+my_natid: 1224$$ my_name: Bird Miss. Ellen my_relief: 2077.00
+app_natid: 1229$$ app_name: Bjornstrom-Steffansson Mr. Mauritz Hakan app_relief: 5220.98
+my_natid: 1229$$ my_name: Bjornstrom-Steffansson Mr. Mauritz Hakan my_relief: 5221.00
+app_natid: 1231$$ app_name: Blank Mr. Henry app_relief: 1667.64
+my_natid: 1231$$ my_name: Blank Mr. Henry my_relief: 1668.00
+app_natid: 1233$$ app_name: Bonnell Miss. Elizabeth app_relief: 2572.97
+my_natid: 1233$$ my_name: Bonnell Miss. Elizabeth my_relief: 2573.00
+app_natid: 1236$$ app_name: Bowerman Miss. Elsie Edith app_relief: 2845.90
+my_natid: 1236$$ my_name: Bowerman Miss. Elsie Edith my_relief: 2846.00
+app_natid: 1238$$ app_name: Brady Mr. John Bertram app_relief: 2147.88
+my_natid: 1238$$ my_name: Brady Mr. John Bertram my_relief: 2148.00
+app_natid: 1239$$ app_name: Brandeis Mr. Emil app_relief: 2583.51
+my_natid: 1239$$ my_name: Brandeis Mr. Emil my_relief: 2584.00
+app_natid: 1241$$ app_name: Brown Mrs. James Joseph (Margaret Tobin) app_relief: 2141.67
+my_natid: 1241$$ my_name: Brown Mrs. James Joseph (Margaret Tobin) my_relief: 2142.00
+app_natid: 1243$$ app_name: Bucknell Mrs. William Robert (Emma Eliza Ward) app_relief: 369.88
+my_natid: 1243$$ my_name: Bucknell Mrs. William Robert (Emma Eliza Ward) my_relief: 370.00
+app_natid: 1244$$ app_name: Burns Miss. Elizabeth Margaret app_relief: 964.82
+my_natid: 1244$$ my_name: Burns Miss. Elizabeth Margaret my_relief: 965.00
+app_natid: 1247$$ app_name: Calderhead Mr. Edward Pennington app_relief: 4069.89
+my_natid: 1247$$ my_name: Calderhead Mr. Edward Pennington my_relief: 4070.00
+app_natid: 1248$$ app_name: Candee Mrs. Edward (Helen Churchill Hungerford) app_relief: 67.73
+my_natid: 1248$$ my_name: Candee Mrs. Edward (Helen Churchill Hungerford) my_relief: 68.00
+app_natid: 1249$$ app_name: Cardeza Mr. Thomas Drake Martinez app_relief: 4992.86
+my_natid: 1249$$ my_name: Cardeza Mr. Thomas Drake Martinez my_relief: 4993.00
+app_natid: 1250$$ app_name: Cardeza Mrs. James Warburton Martinez (Charlotte Wardle Drake) app_relief: 284.75
+my_natid: 1250$$ my_name: Cardeza Mrs. James Warburton Martinez (Charlotte Wardle Drake) my_relief: 285.00
+app_natid: 1254$$ app_name: Carter Master. William Thornton II app_relief: 911.73
+my_natid: 1254$$ my_name: Carter Master. William Thornton II my_relief: 912.00
+app_natid: 1256$$ app_name: Carter Mr. William Ernest app_relief: 3512.88
+my_natid: 1256$$ my_name: Carter Mr. William Ernest my_relief: 3513.00
+app_natid: 1257$$ app_name: Carter Mrs. William Ernest (Lucile Polk) app_relief: 859.65
+my_natid: 1257$$ my_name: Carter Mrs. William Ernest (Lucile Polk) my_relief: 860.00
+app_natid: 1260$$ app_name: Cavendish Mr. Tyrell William app_relief: 288.91
+my_natid: 1260$$ my_name: Cavendish Mr. Tyrell William my_relief: 289.00
+app_natid: 1261$$ app_name: Cavendish Mrs. Tyrell William (Julia Florence Siegel) app_relief: 867.60
+my_natid: 1261$$ my_name: Cavendish Mrs. Tyrell William (Julia Florence Siegel) my_relief: 868.00
+app_natid: 1262$$ app_name: Chaffee Mr. Herbert Fuller app_relief: 4059.86
+my_natid: 1262$$ my_name: Chaffee Mr. Herbert Fuller my_relief: 4060.00
+app_natid: 1263$$ app_name: Chaffee Mrs. Herbert Fuller (Carrie Constance Toogood) app_relief: 4393.82
+my_natid: 1263$$ my_name: Chaffee Mrs. Herbert Fuller (Carrie Constance Toogood) my_relief: 4394.00
+app_natid: 1264$$ app_name: Chambers Mr. Norman Campbell app_relief: 453.97
+my_natid: 1264$$ my_name: Chambers Mr. Norman Campbell my_relief: 454.00
+app_natid: 1269$$ app_name: Chibnall Mrs. (Edith Martha Bowerman) app_relief: 7601.66
+my_natid: 1269$$ my_name: Chibnall Mrs. (Edith Martha Bowerman) my_relief: 7602.00
+app_natid: 1270$$ app_name: Chisholm Mr. Roderick Robert Crispin app_relief: 2325.65
+my_natid: 1270$$ my_name: Chisholm Mr. Roderick Robert Crispin my_relief: 2326.00
+app_natid: 1271$$ app_name: Clark Mr. Walter Miller app_relief: 2117.68
+my_natid: 1271$$ my_name: Clark Mr. Walter Miller my_relief: 2118.00
+app_natid: 1272$$ app_name: Clark Mrs. Walter Miller (Virginia McDowell) app_relief: 2532.55
+my_natid: 1272$$ my_name: Clark Mrs. Walter Miller (Virginia McDowell) my_relief: 2533.00
+app_natid: 1273$$ app_name: Cleaver Miss. Alice app_relief: 979.85
+my_natid: 1273$$ my_name: Cleaver Miss. Alice my_relief: 980.00
+app_natid: 1275$$ app_name: Colley Mr. Edward Pomeroy app_relief: 7731.79
+my_natid: 1275$$ my_name: Colley Mr. Edward Pomeroy my_relief: 7732.00
+app_natid: 1277$$ app_name: Compton Mr. Alexander Taylor Jr app_relief: 1814.74
+my_natid: 1277$$ my_name: Compton Mr. Alexander Taylor Jr my_relief: 1815.00
+app_natid: 1278$$ app_name: Compton Mrs. Alexander Taylor (Mary Eliza Ingersoll) app_relief: 3470.85
+my_natid: 1278$$ my_name: Compton Mrs. Alexander Taylor (Mary Eliza Ingersoll) my_relief: 3471.00
+app_natid: 1279$$ app_name: Cornell Mrs. Robert Clifford (Malvina Helen Lamson) app_relief: 4627.57
+my_natid: 1279$$ my_name: Cornell Mrs. Robert Clifford (Malvina Helen Lamson) my_relief: 4628.00
+app_natid: 1281$$ app_name: Crosby Capt. Edward Gifford app_relief: 6756.66
+my_natid: 1281$$ my_name: Crosby Capt. Edward Gifford my_relief: 6757.00
+app_natid: 1282$$ app_name: Crosby Miss. Harriet R app_relief: 9486.86
+my_natid: 1282$$ my_name: Crosby Miss. Harriet R my_relief: 9487.00
+app_natid: 1283$$ app_name: Crosby Mrs. Edward Gifford (Catherine Elizabeth Halstead) app_relief: 2189.82
+my_natid: 1283$$ my_name: Crosby Mrs. Edward Gifford (Catherine Elizabeth Halstead) my_relief: 2190.00
+app_natid: 1284$$ app_name: Cumings Mr. John Bradley app_relief: 5458.81
+my_natid: 1284$$ my_name: Cumings Mr. John Bradley my_relief: 5459.00
+app_natid: 1285$$ app_name: Cumings Mrs. John Bradley (Florence Briggs Thayer) app_relief: 6198.82
+my_natid: 1285$$ my_name: Cumings Mrs. John Bradley (Florence Briggs Thayer) my_relief: 6199.00
+app_natid: 1288$$ app_name: Daniels Miss. Sarah app_relief: 9532.91
+my_natid: 1288$$ my_name: Daniels Miss. Sarah my_relief: 9533.00
+app_natid: 1290$$ app_name: Davidson Mrs. Thornton (Orian Hays) app_relief: 6600.69
+my_natid: 1290$$ my_name: Davidson Mrs. Thornton (Orian Hays) my_relief: 6601.00
+app_natid: 1292$$ app_name: Dick Mrs. Albert Adrian (Vera Gillespie) app_relief: 3036.90
+my_natid: 1292$$ my_name: Dick Mrs. Albert Adrian (Vera Gillespie) my_relief: 3037.00
+app_natid: 1293$$ app_name: Dodge Dr. Washington app_relief: 964.90
+my_natid: 1293$$ my_name: Dodge Dr. Washington my_relief: 965.00
+app_natid: 1294$$ app_name: Dodge Master. Washington app_relief: 3348.91
+my_natid: 1294$$ my_name: Dodge Master. Washington my_relief: 3349.00
+app_natid: 1297$$ app_name: Douglas Mrs. Frederick Charles (Mary Helene Baxter) app_relief: 3423.68
+my_natid: 1297$$ my_name: Douglas Mrs. Frederick Charles (Mary Helene Baxter) my_relief: 3424.00
+app_natid: 1299$$ app_name: Duff Gordon Lady. (Lucille Christiana Sutherland) (Mrs Morgan) app_relief: 6515.60
+my_natid: 1299$$ my_name: Duff Gordon Lady. (Lucille Christiana Sutherland) (Mrs Morgan) my_relief: 6516.00

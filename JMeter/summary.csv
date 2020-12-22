@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+ insertPerson HTTP Request,1,19,19,19,0.00,0.000%,52.63158,6.48,18.14,126.0
+TOTAL,1,19,19,19,0.00,0.000%,52.63158,6.48,18.14,126.0

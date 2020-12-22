@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  
+   <listeners>
+        <listener class-name="runner.NGTestListener" />
+    </listeners>
+  
+ 
+    <test name="Complete Test">
+        <classes>
+ 
+ 			<class name="runner.SingleInsert_TestRunner" />
+       		<class name="runner.MultiPersonInsert_TestRunner" />
+			<class name="runner.UploadCSVFile_API_TestRunner" />
+ 			<class name="runner.UploadCSVFile_UI_TestRunner" />
+			<class name="runner.BookKeeperTax_TestRunner" />
+			<class name="runner.Dispense_Tax_Relief_TestRunner" />
+
+            
+
+        </classes>
+    </test>
+
+</suite> 

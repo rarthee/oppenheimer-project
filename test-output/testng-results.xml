@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63418" started-at="2020-12-22T12:54:21 SGT" finished-at="2020-12-22T12:55:25 SGT">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.BookKeeperTax_TestRunner@43d7741f]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Dispense_Tax_Relief_TestRunner@17baae6e]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.MultiPersonInsert_TestRunner@6366ebe0]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.SingleInsert_TestRunner@3d0f8e03]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.UploadCSVFile_API_TestRunner@44f75083]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.UploadCSVFile_UI_TestRunner@2698dc7]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Complete Test" duration-ms="63418" started-at="2020-12-22T12:54:21 SGT" finished-at="2020-12-22T12:55:25 SGT">
+      <class name="runner.Dispense_Tax_Relief_TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:runner.Dispense_Tax_Relief_TestRunner@17baae6e]" name="setUpClass" is-config="true" duration-ms="11" started-at="2020-12-22T12:55:11 SGT" finished-at="2020-12-22T12:55:11 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Dispense_Tax_Relief_TestRunner@17baae6e]" name="runScenario" duration-ms="13761" started-at="2020-12-22T12:55:11 SGT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-12-22T12:55:25 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["As the Governor,I should be able to see a button on the screen so that I can dispense tax relief for my working class heroes"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[As the Governor,I should be able to see a button on the screen so that I can dispense tax relief for my working class heroes]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:runner.Dispense_Tax_Relief_TestRunner@17baae6e]" name="tearDownClass" is-config="true" duration-ms="21" started-at="2020-12-22T12:55:25 SGT" finished-at="2020-12-22T12:55:25 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.Dispense_Tax_Relief_TestRunner -->
+      <class name="runner.MultiPersonInsert_TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:runner.MultiPersonInsert_TestRunner@6366ebe0]" name="setUpClass" is-config="true" duration-ms="108" started-at="2020-12-22T12:54:25 SGT" finished-at="2020-12-22T12:54:25 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.MultiPersonInsert_TestRunner@6366ebe0]" name="runScenario" duration-ms="1080" started-at="2020-12-22T12:54:25 SGT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-12-22T12:54:26 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["As the Clerk, I should be able to insert more than one working class hero into database via an API"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[As the Clerk, I should be able to insert more than one working class hero into database via an API]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:runner.MultiPersonInsert_TestRunner@6366ebe0]" name="tearDownClass" is-config="true" duration-ms="36" started-at="2020-12-22T12:54:26 SGT" finished-at="2020-12-22T12:54:26 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.MultiPersonInsert_TestRunner -->
+      <class name="runner.UploadCSVFile_API_TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:runner.UploadCSVFile_API_TestRunner@44f75083]" name="setUpClass" is-config="true" duration-ms="21" started-at="2020-12-22T12:54:26 SGT" finished-at="2020-12-22T12:54:26 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.UploadCSVFile_API_TestRunner@44f75083]" name="runScenario" duration-ms="21136" started-at="2020-12-22T12:54:26 SGT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-12-22T12:54:47 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["As the Clerk, I should be able to upload a csv file to a portal so that I can populate the database from a UI"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[As the Clerk, I should be able to upload a csv file to a portal so that I can populate the database from a UI]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:runner.UploadCSVFile_API_TestRunner@44f75083]" name="tearDownClass" is-config="true" duration-ms="45" started-at="2020-12-22T12:54:47 SGT" finished-at="2020-12-22T12:54:47 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.UploadCSVFile_API_TestRunner -->
+      <class name="runner.SingleInsert_TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:runner.SingleInsert_TestRunner@3d0f8e03]" name="setUpClass" is-config="true" duration-ms="1210" started-at="2020-12-22T12:54:22 SGT" finished-at="2020-12-22T12:54:23 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.SingleInsert_TestRunner@3d0f8e03]" name="runScenario" duration-ms="1662" started-at="2020-12-22T12:54:23 SGT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-12-22T12:54:25 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["As the Clerk, I should be able to insert a single record of working class hero into database via an API"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[As the Clerk, I should be able to insert a single record of working class hero into database via an API]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:runner.SingleInsert_TestRunner@3d0f8e03]" name="tearDownClass" is-config="true" duration-ms="344" started-at="2020-12-22T12:54:25 SGT" finished-at="2020-12-22T12:54:25 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.SingleInsert_TestRunner -->
+      <class name="runner.UploadCSVFile_UI_TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:runner.UploadCSVFile_UI_TestRunner@2698dc7]" name="setUpClass" is-config="true" duration-ms="28" started-at="2020-12-22T12:54:47 SGT" finished-at="2020-12-22T12:54:47 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.UploadCSVFile_UI_TestRunner@2698dc7]" name="runScenario" duration-ms="21195" started-at="2020-12-22T12:54:47 SGT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-12-22T12:55:09 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["As the Clerk, I should be able to upload a csv file through the UI to a portal so that I can populate the database from a UI"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[As the Clerk, I should be able to upload a csv file to a portal so that I can populate the database from a UI]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:runner.UploadCSVFile_UI_TestRunner@2698dc7]" name="tearDownClass" is-config="true" duration-ms="30" started-at="2020-12-22T12:55:09 SGT" finished-at="2020-12-22T12:55:09 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.UploadCSVFile_UI_TestRunner -->
+      <class name="runner.BookKeeperTax_TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:runner.BookKeeperTax_TestRunner@43d7741f]" name="setUpClass" is-config="true" duration-ms="23" started-at="2020-12-22T12:55:09 SGT" finished-at="2020-12-22T12:55:09 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.BookKeeperTax_TestRunner@43d7741f]" name="runScenario" duration-ms="2422" started-at="2020-12-22T12:55:09 SGT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-12-22T12:55:11 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["As a Bookkeeper,I should be able to query the amount of tax relief for each person in the database so that I can report the figures to"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[As a Bookkeeper,I should be able to query the amount of tax relief for each person in the database so that I can report the figures to]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:runner.BookKeeperTax_TestRunner@43d7741f]" name="tearDownClass" is-config="true" duration-ms="41" started-at="2020-12-22T12:55:11 SGT" finished-at="2020-12-22T12:55:11 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.BookKeeperTax_TestRunner -->
+    </test> <!-- Complete Test -->
+  </suite> <!-- Suite -->
+</testng-results>
